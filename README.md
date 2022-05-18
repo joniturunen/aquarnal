@@ -9,3 +9,4 @@ Simple WebApp to log events about your aquarium maintenance
 ## Git policies
 
 - Commits to main require a pull request to be completed
+
