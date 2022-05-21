@@ -49,3 +49,6 @@ ENV/
 env.bak/
 venv.bak/
 
+.$concept-diagrams.drawio.bkp
+.dccache
+.$concept-diagrams.drawio.dtmp
